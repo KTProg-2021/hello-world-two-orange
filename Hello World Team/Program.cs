@@ -14,6 +14,7 @@ namespace Hello_World_Team
             Console.WriteLine("My name is Owen");
             Console.WriteLine("My name is Lucas");
             Console.WriteLine("My name is Leon");
+            Console.WriteLine("Team is complete");
         }
     }
 }
