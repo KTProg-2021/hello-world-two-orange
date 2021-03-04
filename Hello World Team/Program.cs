@@ -8,6 +8,9 @@ namespace Hello_World_Team
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I am on Team Orange");
+            Console.WriteLine("My name is Ryan");
+            Console.WriteLine("My name is Tyler");
+            Console.WriteLine("My name is Owen");
             Console.WriteLine("My name is Lucas");
         }
     }
